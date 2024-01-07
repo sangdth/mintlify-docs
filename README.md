@@ -1,4 +1,4 @@
-# Mintlify Starter Kit
+# Mintlify Starter
 
 ### Development
 
